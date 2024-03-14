@@ -1,4 +1,4 @@
-name: connman
+name: connman-snap-testing
 base: core18
 summary: Network management framework
 description: |
